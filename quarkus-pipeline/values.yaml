@@ -1,4 +1,4 @@
-domain: contract-first-idp
+domain: agiertli
 system: default-application
 component: default-service
 deployment: jvm
